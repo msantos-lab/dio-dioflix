@@ -173,14 +173,15 @@ header .container{
   background: #181818;
   max-width: 70%;
   padding: 0; 
-  height: 630px;
+  height: 570px;
   font-size: 0.85rem;
+  margin-top: 90px;
 }
 
 .image-modal{
   background: linear-gradient(rgba(255, 255, 255, 0), rgba(24,24,24,1.5)100%), url('../images/banner-detal.png') no-repeat;
   background-size: cover;
-  height: 450px;
+  height: 410px;
   border-radius: 10px 10px 0 0;
 }
 
@@ -371,7 +372,7 @@ footer{
   .menu-footer nav{
     flex-direction: column;
   }
-  
+
   .none-mob{
     display: none
   }
