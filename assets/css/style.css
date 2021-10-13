@@ -202,12 +202,14 @@ header .container{
 }
 
 .btns-modal, .content-modal{
+  background: #181818;
   padding: 2% 3%;
 }
 
 .p-white{
   color: #fff;
   font-size: 1rem;
+  padding-bottom: 3%;
 }
 
 /*--------- FOOTER ---------*/
@@ -289,6 +291,7 @@ footer{
 
   /*--------- MODAL ---------*/
   .modal{
+    background: #181818;
     max-width: 85%;
     padding: 0; 
     height: 65vh;
@@ -355,6 +358,7 @@ footer{
 
     /*--------- MODAL ---------*/
     .modal{
+      background: #181818;
       max-width: 85%;
       padding: 0; 
       height: 70vh;
